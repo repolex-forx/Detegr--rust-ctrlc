@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "Detegr",
+  "repo": "rust-ctrlc",
+  "versions": [
+    {
+      "commit": "f9de9565ad29d91c567071f9ed8018113227d12a",
+      "parsed_at": "2026-11-23T00:33:41.018298+00:00",
+      "tag": "v3.1.7",
+      "filetree": "filetree/f9de9565ad29d91c567071f9ed8018113227d12a.nq.gz",
+      "blobs": [
+        "blob/f77fd5c8d8390b234914e0a690dbf8d5e9f4c078.nq.gz",
+        "blob/f3b37e958107fd3275c2d745a6e795e9f0a03d16.nq.gz",
+        "blob/cc01b80229b65e6b1273ea65972db6245a70aa36.nq.gz",
+        "blob/667557c8be44f396dad9ef98616bc93ba69f1b7a.nq.gz",
+        "blob/6cfdd5ebfec2ad6d249295bf155112a321c45536.nq.gz",
+        "blob/b14b26253016393e85c89377b8d214088d2cb389.nq.gz",
+        "blob/e453637ee2c56089b8962a61553fdf13369cfe81.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/f703c18fd03844ec48a45d8ee86e2ef93edafe0e.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/9ce9a410206b71a55d41416e8a4ddf058e0e6524.nq.gz",
+        "blob/3519798970a88b25958333ce7e3cb3baf340c239.nq.gz",
+        "blob/b51c388429216d66675e63b5f81a00c65c3a07b8.nq.gz",
+        "blob/c59068d75fc9e7fb5829e3f64cbdf1c444f48815.nq.gz",
+        "blob/cc9ed3f6ba72054498efc37d06b1aba3e839acab.nq.gz",
+        "blob/9557b09c9051382136a9492dd353aedcfe3b729f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
