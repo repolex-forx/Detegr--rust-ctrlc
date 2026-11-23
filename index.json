@@ -1,0 +1,11 @@
+{
+  "org": "Detegr",
+  "repo": "rust-ctrlc",
+  "versions": [
+    {
+      "commit": "f9de9565ad29d91c567071f9ed8018113227d12a",
+      "tag": "v3.1.7",
+      "parsed_at": "2026-11-23T00:39:36.464662+00:00"
+    }
+  ]
+}
